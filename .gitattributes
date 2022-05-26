@@ -1,0 +1,2 @@
+*.py filter=git-crypt diff=git-crypt
+keys/** filter=git-crypt diff=git-crypt
