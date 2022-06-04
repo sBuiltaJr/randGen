@@ -1,0 +1,4 @@
+[submodule "wordGen"]
+	path = wordGen
+	url = ./randGen/generators/wordGen/
+	branch = master
